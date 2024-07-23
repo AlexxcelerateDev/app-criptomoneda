@@ -26,13 +26,19 @@
     "@angular-devkit/build-angular": "^18.0.7",
     "@angular/cli": "^18.0.7",
     "@angular/compiler-cli": "^18.0.0",
+    "@iconify/json": "^2.2.229",
+    "@iconify/tailwind": "^1.1.1",
+    "@tailwindcss/typography": "^0.5.13",
     "@types/jasmine": "~5.1.0",
+    "daisyui": "^4.12.10",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "prettier": "^3.3.3",
+    "tailwindcss-animated": "^1.1.2",
     "typescript": "~5.4.2"
   }
 }
